@@ -29,18 +29,12 @@ header
 
 section
 {
-	width: 587px;
+	width: 100%;
 	height: auto;	
 	background-repeat: no-repeat;
 	text-align: center;
 	/*padding-top: 200px;*/
 	margin: 0 auto;
-
-
-	width: 100%;
-    height: auto;
-
-
 }
 
 #firstinp
@@ -53,8 +47,10 @@ footer
 	text-align: center;
 	margin: 0 auto;
 }
+
 table
 {
+	width: 100%;
 	margin: 0 auto;
 }
 
